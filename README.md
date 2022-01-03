@@ -9,6 +9,8 @@ This is open source so do with it what you will :D
 | Installation |
 
 Place chq_rpchat in resource folder
+
 Add ensure chq_rpchat to server.cfg
+
 
 Made By: ColtenHQ
