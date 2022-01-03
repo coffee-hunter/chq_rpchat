@@ -13,7 +13,7 @@ This is open source so do with it what you will :D
 
 | OPTIONAL |
 
-To disable the normal text chat without commands, you must go into your chat resource and comment out these lines:
+To disable the normal text chat without commands, you must go into your chat resource (cl_chat.lua) and comment out these lines:
 
 ```
 RegisterNUICallback('chatResult', function(data, cb)
