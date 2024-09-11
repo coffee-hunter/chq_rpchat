@@ -8,8 +8,6 @@ local distToDraw = 5 -- Max. distance to draw
 
 local pedDisplaying = {}
 
-local pedList = Config.Models
-
 local function DrawText3D(coords, msg)
     local camCoords = GetGameplayCamCoord()
     local dist = #(coords - camCoords)
