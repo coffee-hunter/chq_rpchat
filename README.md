@@ -2,7 +2,7 @@
  
 | INFO |
  
-This resource is made for FiveM. It is an rpchat resource that includes /me and /ooc. These should work standalone but I have been using QBCore to develop this.
+This resource is made for FiveM. It is an rpchat resource that includes /me and /ooc. I have been using QBCore to develop this.
 
 This is open source so do with it what you will :D
 
